@@ -1,0 +1,2 @@
+# JU16-EduBot-AI
+GEN AI
